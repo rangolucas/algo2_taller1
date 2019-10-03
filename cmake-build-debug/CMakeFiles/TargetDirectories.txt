@@ -1,0 +1,6 @@
+/home2/clinux01/Documents/tp/taller_lista_enlazada/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home2/clinux01/Documents/tp/taller_lista_enlazada/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home2/clinux01/Documents/tp/taller_lista_enlazada/cmake-build-debug/CMakeFiles/gtest.dir
+/home2/clinux01/Documents/tp/taller_lista_enlazada/cmake-build-debug/CMakeFiles/correrTests.dir
+/home2/clinux01/Documents/tp/taller_lista_enlazada/cmake-build-debug/CMakeFiles/gtest_main.dir
+/home2/clinux01/Documents/tp/taller_lista_enlazada/cmake-build-debug/CMakeFiles/correrValgrind.dir
